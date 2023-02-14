@@ -1,1 +1,29 @@
 # Hello-World
+
+1. [Project Title](#Project-title)
+2. [Description](#Description)
+3. [How to run the program](#How-to-run-the-program)
+4. [Additional Documentation](#Additional-documentation)
+5. [Inspirational Quote](Inspirational-quote)
+
+## Project Title
+**Hello World Sample**
+
+## Description 
+~~Lets see how this thing works~~
+
+Practice using GitHub by creating a sample repository
+
+## How to run the program
+
+This is where I would describe how to run the program 👍
+
+Here are some random emojis 	:disguised_face: :guard: :parrot: :auto_rickshaw:
+
+## Additional documentation
+
+*This additional documentation would be **Super Important** if there was any*
+
+## Inspirational Quote
+
+> Whatever you do always give 100%. Unless you're donating blood
