@@ -3,8 +3,8 @@
 1. [Project Title](#Project-title)
 2. [Description](#Description)
 3. [How to run the program](#How-to-run-the-program)
-4. [Additional Documentation](#Additional-documentation)
-5. [Inspirational Quote](Inspirational-quote)
+4. [Additional Documentation](#Additional-Documentation)
+5. [Inspirational Quote](Inspirational-Quote)
 
 ## Project Title
 **Hello World Sample**
@@ -20,7 +20,7 @@ This is where I would describe how to run the program 👍
 
 Here are some random emojis 	:disguised_face: :guard: :parrot: :auto_rickshaw:
 
-## Additional documentation
+## Additional Documentation
 
 *This additional documentation would be **Super Important** if there was any*
 
