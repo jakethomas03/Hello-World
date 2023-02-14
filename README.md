@@ -4,7 +4,7 @@
 2. [Description](#Description)
 3. [How to run the program](#How-to-run-the-program)
 4. [Additional Documentation](#Additional-Documentation)
-5. [Inspirational Quote](Inspirational-Quote)
+5. [Inspirational Quote](#Inspirational-Quote)
 
 ## Project Title
 **Hello World Sample**
@@ -27,3 +27,7 @@ Here are some random emojis 	:disguised_face: :guard: :parrot: :auto_rickshaw:
 ## Inspirational Quote
 
 > Whatever you do always give 100%. Unless you're donating blood
+
+-Bill Murray
+
+
