@@ -18,7 +18,6 @@ Practice using GitHub by creating a sample repository
 
 This is where I would describe how to run the program 👍
 
-Here are some random emojis 	:disguised_face: :guard: :parrot: :auto_rickshaw:
 
 ## Additional Documentation
 
